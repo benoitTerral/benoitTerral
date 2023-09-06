@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm **Benoît**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bterral&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitTerral&layout=compact)
 
 <a href="https://www.linkedin.com/in/benoitterral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benoitterral" height="30" width="40" /></a>
