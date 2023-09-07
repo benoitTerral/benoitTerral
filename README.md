@@ -15,8 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Benoît**
+I'm **Benoît**, a former business analyst strengthening his technical skills at [42 Lyon](https://42lyon.fr/).
+
+🌱 I’m currently improving my dataskills mostly using python
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitTerral&layout=compact)
 
-<a href="https://www.linkedin.com/in/benoitterral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benoitterral" height="30" width="40" /></a>
+### Most familiar technologies
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/benoitterral/" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn">
+  </a>
+  <a href="mailto:benoit.terral@gmail.com" style="margin-left: 20px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="auto" alt="Gmail">
+  </a>
+</p>
