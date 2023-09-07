@@ -21,11 +21,14 @@ I'm **Benoît**, a former business analyst strengthening his technical skills at
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitTerral&layout=compact)
 
-### Most familiar technologies
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
+### Languages and tools
+<p align="left">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="60" height="60" style="max-width: 100%;">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="60" height="60" style="max-width: 100%;">
+	<img src="./sql.png" width="60" height="60" style="max-width: 100%;">
+</p>
 
 ### Connect with me:
 
