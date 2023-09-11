@@ -36,7 +36,7 @@ I'm **Benoît**, a former business analyst strengthening his technical skills at
   <a href="https://www.linkedin.com/in/benoitterral/" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn">
   </a>
-  <a href="mailto:benoit.terral@gmail.com" style="margin-left: 20px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="auto" alt="Gmail">
-  </a>
+   <a href="mailto:your.email@example.com" style="margin-right: 20px;">
+    <img src="https://example.com/email-icon.svg" height="40" width="40" alt="Email">
+   </a>
 </p>
