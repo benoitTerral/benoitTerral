@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm **Benoît**, a former business analyst strengthening his technical skills at [42 Lyon](https://42lyon.fr/).
 
-🌱 I’m currently improving my dataskills mostly using python
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitTerral&layout=compact)
 
 ### Languages and tools
